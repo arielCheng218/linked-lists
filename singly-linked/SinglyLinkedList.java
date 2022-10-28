@@ -1,4 +1,5 @@
 // Represents singly-linked list in java
+import starter.Node;
 
 class LinkedList {
 
@@ -41,7 +42,3 @@ class LinkedList {
 	}
 
 }
-
-// After code-along (two options):
-//	- Implement doubly-linked list and backwards traversal
-//	- 
