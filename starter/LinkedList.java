@@ -1,4 +1,5 @@
 package starter;
+import starter.Node;
 // Represents singly-linked list in java
 
 class LinkedList {
@@ -23,7 +24,7 @@ class LinkedList {
 	void traverseAndPrint() {
 		Node curr = head;
 		while (curr != null) {
-			System.out.println(curr.value + " -> ");
+			System.out.print(curr.value + " -> ");
 			curr = curr.next;
 		}
 	}
