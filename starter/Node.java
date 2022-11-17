@@ -10,5 +10,5 @@ public class Node {
 		value = nodeValue;
 		next = null;
 	}
-	
+
 }
