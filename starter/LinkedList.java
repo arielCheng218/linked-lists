@@ -7,12 +7,11 @@ class LinkedList {
 	Node tail;
 
 	LinkedList(Node headNode) {
-		head = headNode;
-		tail = headNode;
+		
 	}
 
 	void prependNode(Node node) {
-
+		
 	}
 
 	void appendNode(Node node) {
