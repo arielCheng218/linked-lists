@@ -24,10 +24,9 @@ class LinkedList {
 
 	public static void main(String[] args) {
 		// create a linked list (3 -> 2 -> 1 -> 2)
-		Node headNode = new Node(2);
-		LinkedList ll = new LinkedList(headNode);
+
 		// traverse through and print
-		ll.traverseAndPrint();
+		
 	}
 
 }
