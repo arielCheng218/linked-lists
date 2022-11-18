@@ -19,14 +19,14 @@ class LinkedList {
 	}
 
 	void traverseAndPrint() {
-		System.out.println(head.value);
+		
 	}	
 
 	public static void main(String[] args) {
 		// create a linked list (3 -> 2 -> 1 -> 2)
 
 		// traverse through and print
-		
+
 	}
 
 }
