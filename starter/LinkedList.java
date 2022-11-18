@@ -11,7 +11,7 @@ class LinkedList {
 	}
 
 	void prependNode(Node node) {
-		
+
 	}
 
 	void appendNode(Node node) {
@@ -19,7 +19,7 @@ class LinkedList {
 	}
 
 	void traverseAndPrint() {
-		
+
 	}	
 
 	public static void main(String[] args) {
